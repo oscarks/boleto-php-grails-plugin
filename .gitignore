@@ -28,3 +28,9 @@
 
 # "temporary" build files
 /target
+/target-eclipse
+
+# backup files
+*~
+*.bak
+
